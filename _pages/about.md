@@ -10,7 +10,7 @@ redirect_from:
 
 Biography
 ======
-Zhao Zhang joined the School of Astronomy and Space Science at Nanjing University in September 2019, where he is majoring in Astrophysics, advised by *Assio. Prof* Binbin Zhang. He received his B.S. degree in physics from Guangxi University in June 2019. He studied the progenitor of gamma-ray bursts from black holes under the guidance of *Prof* Houjun Lü during his undergraduate period.
+Zhao Zhang joined the School of Astronomy and Space Science at Nanjing University in September 2019, where he is majoring in Astrophysics, advised by *Assio. Prof*. Binbin Zhang. He received his B.S. degree in physics from Guangxi University in June 2019. He studied the progenitor of gamma-ray bursts from black holes under the guidance of *Prof*. Houjun Lü during his undergraduate period.
 
 <!-- __Update: I will be joining Stanford University as a Ph.D. student in Fall 2021!__ -->
 
@@ -28,7 +28,7 @@ Research interest
                     </div>
                     <br/>
 <div>
-<div style="font-size:15pt"><strong>Multidimensional Light-Field Manipulation with Metasurfaces</strong></div>
+<div style="font-size:15pt"><strong>Astrophotonics (collaborate with Tianyue Li @NJU)</strong></div>
   <hr/>
 </div>
 <div style="font-size:11pt ; font-style:italic">
@@ -38,69 +38,6 @@ Research interest
 <br/>
 
 <br/>
-
-
-Publications
-======
-
-<!-- <img width="175" align="left" src="../images/multigrid.jpg"/> -->
-
-- &nbsp; __Integrating the optical tweezers and spanner onto an individual single-layer metasurface__<br/>
-&nbsp; __Tianyue Li__, Xiaohao Xu, Boyan Fu, Shuming Wang, Baojun Li, Zhenlin Wang, Shining Zhu. <br/>
-&nbsp;  *Photonics Research* 9 (6), 1062-1068, 2021 
-<!-- &nbsp; [*Journal-Artice*](https://www.osapublishing.org/prj/fulltext.cfm?uri=prj-9-6-1062&id=451401)<br/> -->
-&nbsp; [*Journal-Artice*](../files/PR. Integrating the optical tweezers and spanner onto an individual single-layer metasurface.pdf)<br/>
-
-
-<!-- <img width="175" align="left" src="../images/rotation-teaser.jpg"/> -->
-
-- &nbsp; __Generation and conversion dynamics of dual Bessel beams with a photonic spin-dependent dielectric metasurface__<br/>
-&nbsp; __Tianyue Li__, Xingyi Li, Shaohui Yan, Xiaohao Xu, Shuming Wang, Baoli Yao, Zhenlin Wang, Shining Zhu. <br/>
-&nbsp;  *Physical Review Applied* 15 (1), 014059, 2021 
-&nbsp;  [*Journal-Artice*](../files/PhysRevApplied.Generation and Conversion Dynamics of Dual Bessel Beams with a Photonic Spin-Dependent Dielectric Metasurface.pdf)<br/>
-
-
-
-- &nbsp; __Multidimensional light field manipulation and applications based on optical metasurface__<br/>
-&nbsp; __Tianyue Li__, Boyan Fu, Jianzheng Ren, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
-&nbsp;  *First Optics Frontier Conference* 11850, 1185004, 2021 
-&nbsp;  [*Conference-Paper*](../files/SPIE Conference.Multidimensional light field manipulation and applications based on optical metasurface.pdf)<br/>
-
-
-
-- &nbsp; __Chromatic Dispersion Manipulation Based on Metalenses__<br/>
-&nbsp; Wenbo Zang, Quan Yuan, Run Chen, Lin Li, __Tianyue Li__, Xiujuan Zou, Gaige Zheng, Zhuo Chen, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
-&nbsp;  *Advanced Materials* 32 (27), 1904935, 2020 
-&nbsp;  [*Journal-Artice*](../files/AM.Chromatic Dispersion Manipulation Based on Metalenses.pdf)<br/>
-
-
-
-- &nbsp; __Imaging based on metalenses__<br/>
-&nbsp; Xiujuan Zou, Gaige Zheng, Quan Yuan, Wenbo Zang, Run Chen, __Tianyue Li__, Lin Li, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
-&nbsp;  *PhotoniX* 1 (1), 1-24, 2020 
-&nbsp;  [*Journal-Artice*](../files/Photonix. Imaging based on metalenses.pdf)<br/>
-
-
-
-- &nbsp; __Chromatic dispersion manipulation based on metasurface devices in the mid-infrared region__<br/>
-&nbsp; Lin Li, Quan Yuan, Run Chen, Xiujuan Zou, Wenbo Zang, __Tianyue Li__, Gaige Zheng, Shuming Wang, Zhenlin Wang, Shining Zhu. <br/>
-&nbsp;  *Chinese Optics Letters* 18 (8), 082401, 2020 
-&nbsp;  [*Journal-Artice*](../files/COL.Chromatic dispersion manipulation based on metasurface devices in the mid-infrared region.pdf)<br/>
-
-
-- &nbsp; __A Measuring Method for Eccentricity of Railway Bridge Line and Thickness of Ballast__<br/>
-&nbsp;__Tianyue Li__, Zimo Cheng, Ziqian Chen, Yuanjun Li. <br/>
-&nbsp;  *Railway Engineering* 2018 (2), 134-137, 2018 (in Chinese) 
-&nbsp;  [*Journal-Artice*](../files/railway.pdf)<br/>
-
-
-- &nbsp; __Automatic precise alignment of Sagnac interferometer__<br/>
-&nbsp;__Tianyue Li__, Xuemin Zhang and Xing Song. 
-&nbsp;  *Novel Optoelectronic Detection Technology and Application* 10697, 106973L, 2018 
-&nbsp;  [*Conference-Paper*](../files/Automatic precise alignment of Sagnac interferome.pdf)<br/>
-
-<br/>
-<!-- <img width="175" align="left" src="https://ErisZhang.github.io/images/comp-dynamics-representative-image.jpg"/> -->
 
 
 
@@ -155,7 +92,9 @@ employed as a structural prototyping tool that facilitates model design and fabr
 
 Contact
 ======
-__Address__: Room A-509, TangZhongying Building, School of Physics, Nanjing University.
+__Address__: School of Astronomy and Space, Xianlin Compus, Nanjing University.
 <br/>
-__E-mail__: leos4a@163.com
+__QQ__: 563349377
+<br/>
+__Wechat__: MichaeljoyJackson
 
