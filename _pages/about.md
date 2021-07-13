@@ -22,7 +22,7 @@ Research interest
 <div style="font-size:20pt"><strong>High energy Astrophysics</strong></div>
   <hr/>
 </div>
-<div style="font-size:11pt ;
+<div style="font-size:11pt">
 <p align = "justify">Data and observation-oriented research on gamma-ray bursts; <br/>
                     Gravitational waves and related high energy astrophysics.</p>
                     </div>
@@ -31,7 +31,7 @@ Research interest
 <div style="font-size:20pt"><strong>Astrophotonics (collaborate with Tianyue Li @NJU)</strong></div>
   <hr/>
 </div>
-<div style="font-size:11pt ; font-style:italic">
+<div style="font-size:11pt">
 <p align = "justify">Model of interstellar medium based on nonlinear photonics theory.</p>
  </div>
 
