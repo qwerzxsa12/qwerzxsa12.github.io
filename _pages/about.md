@@ -19,16 +19,16 @@ Zhao Zhang joined the School of Astronomy and Space Science at Nanjing Universit
 Research interest
 ======
 <div>
-<div style="font-size:15pt"><strong>High energy Astrophysics</strong></div>
+<div style="font-size:20pt"><strong>High energy Astrophysics</strong></div>
   <hr/>
 </div>
 <div style="font-size:11pt ;
-<p align = "justify">Data and observation-oriented research on gamma-ray bursts <br/>
+<p align = "justify">Data and observation-oriented research on gamma-ray bursts; <br/>
                     Gravitational waves and related high energy astrophysics.</p>
                     </div>
                     <br/>
 <div>
-<div style="font-size:15pt"><strong>Astrophotonics (collaborate with Tianyue Li @NJU)</strong></div>
+<div style="font-size:20pt"><strong>Astrophotonics (collaborate with Tianyue Li @NJU)</strong></div>
   <hr/>
 </div>
 <div style="font-size:11pt ; font-style:italic">
