@@ -8,60 +8,37 @@ redirect_from:
   - /about.html
 ---
 
-About me
+Biography
 ======
-Hiya, I'm a doctoral student at Nanjing University, China, currently majoring in Optics and Photonics in [Dielectric Superlattice Lab.](http://slab.nju.edu.cn/)  led by  [Prof. Zhu Shining](https://physics.nju.edu.cn/sz/jcrc/zgkxyys/20210111/i184703.html) and advised by  [Prof. Shuming Wang](https://physics.nju.edu.cn/sz/gdkxx/20191105/i45277.html).
-
-
-<p align = "justify">My research interests mainly focus on the field of Nanophotonics, specifically the physical mechanism of metasurface, multifunctional meta-device design, Metalenses design for imaging. In parallel, I also work on optical manipulation based on metasurface with Dr. Xiaohao Xu (Jinan Univ., Guangzhou) and Prof. Shaohui Yan (XIOPM, CAS), and expected to study something new in classic and quantum physics.</p>
-
-<p align = "justify">Also, I've previously participated in different research areas with Prof. Houjun Lü (Guangxi Univ.) on High Energy Astrophysics and with Prof. Xuemin Zhang (Wuhan. Univ.) on optical gauge as well as precise alignment of interferometers.</p>
-
-<p align = "justify">I'm honored to be selected as an 'Outstanding Speaker' in 2nd National Academic Forum on Photonics Technology and Awarded Second Prize of Presentation Contest in the 1st 'Light & Future' National Graduate Academic Forum.</p>
+Zhao Zhang joined the School of Astronomy and Space Science at Nanjing University in September 2019, where he is majoring in Astrophysics, advised by *Assio. Prof* Binbin Zhang. He received his B.S. degree in physics from Guangxi University in June 2019. He studied the progenitor of gamma-ray bursts from black holes under the guidance of *Prof* Houjun Lü during his undergraduate period.
 
 <!-- __Update: I will be joining Stanford University as a Ph.D. student in Fall 2021!__ -->
 
 <br/>
 
-
-Research area
+Research interest
 ======
-
 <div>
-<div style="font-size:15pt"><strong>Metasurface-Based Optical Manipulation</strong></div>
+<div style="font-size:15pt"><strong>High energy Astrophysics</strong></div>
   <hr/>
 </div>
-<div style="font-size:11pt ;  font-style:italic">
- <img   width="200" align="left"  hspace= 10px src="../images/tianyue.png"/>
-<p align = "justify">Optical tweezers (OT) and optical spanner (OS) are powerful tools of optical manipulation, which are responsible for particle trapping and rotation, respectively. Conventionally, the OT and OS are built using bulky three-dimensional devices, such as microscope objectives and spatial light modulators. Recently, metasurfaces are proposed for setting up them on a microscale platform, which greatly miniaturizing the systems. In this topic, we offer a metasurface-based solution to integrating the OT and OS. Using the prevailing approach based on the geometric and dynamic phases, we show that it is possible to construct an output field, which promises a high NA focal spot, accompanied with a coaxial vortex. Optical trapping and rotation are numerically demonstrated by estimating the mechanical effects on a particle probe. Moreover, we demonstrate an on-demand control of the OT-to-OS distance and the topological charge possessed by the OS. Our results may empower advanced applications in on-chip particle manipulation.</p>
-  </div>
-
-
-<br/>
-
+<div style="font-size:11pt ;
+<p align = "justify">Data and observation-oriented research on gamma-ray bursts <br/>
+                    Gravitational waves and related high energy astrophysics.</p>
+                    </div>
+                    <br/>
 <div>
 <div style="font-size:15pt"><strong>Multidimensional Light-Field Manipulation with Metasurfaces</strong></div>
   <hr/>
 </div>
 <div style="font-size:11pt ; font-style:italic">
- <img width="200" align="left"   hspace= 10px src="../images/manipulation.png"/>
-<p align = "justify">Metasurfaces possessing the advantages of miniaturized size, are widely employed to manipulate light in the subwavelength region, which breaks the limitation of bulky and complex volume and system compared to the traditional optical elements. An advantage of metasurfaces is their versatility by invoking the parameters of light-field to achieve various functionalities into a single-layer metasurface. In this project, we report methods of using the polarization and dispersion of light to achieve multifunctional metasurface devices, allowing the different degrees of freedom of light to carry independent phase profiles to achieve the polarization-dependent conversion of Bessel beams with different orders and NAs as well as wavelength-controlled multifunctional metalenses by introducing an improved genetic algorithm have been implemented. We envision our research are expected to be the potential candidates in multifunctional integrated optical devices.</p>
-  </div>
-
-<br/>
-
-<div>
-<div style="font-size:15pt"><strong>Chromatic Dispersion Manipulation Based on Metalenses</strong></div>
-  <hr>
-</div>
-<div style="font-size:11pt ;  font-style:italic">
- <img width="200" align="left"  hspace= 10px  src="../images/chromatic.png"/>
-<p align = "justify">Among all the optical elements, metalenses possess the most basic and important applications. Compared with the traditional lenses, it has significant advantages in integration and miniaturization. However, the resonant dispersion of each nanostructure, the inherent dispersion of planar devices and optical materials lead to large chromatic aberrations in the metalenses, that severely reduces the quality of their focusing and imaging. Therefore, how to effectively suppress or manipulate the chromatic aberration of metalenses has attracted worldwide attention in recent years, and various excellent achievements have promoted the development of this field. In this project, the Differencial-phase equation has been employed to design the achromatic or super chromatic metalenses, which provides the possibility for the development of ultrathin full-color camera or spectral imaging devices.</p>
-  </div>
+<p align = "justify">Model of interstellar medium based on nonlinear photonics theory.</p>
+ </div>
 
 <br/>
 
 <br/>
+
 
 Publications
 ======
