@@ -31,28 +31,17 @@ Research interest
 
 <br/>
 
-<!-- <div>
-<div style="font-size:14pt"><strong>High energy Astrophysics</strong></div>
-  <hr/> -->
-<!-- </div>
-<div style="font-size:11pt">
-<p align = "justify">Data and observation-oriented research on gamma-ray bursts; <br/>
-                    Gravitational waves and related high energy astrophysics.</p>
-                    </div> -->
-                    
+Publications
+======
 
-<!-- <div>
-<div style="font-size:14pt"><strong> </strong></div>
-  <hr/> -->
-<!-- </div>
-<div style="font-size:11pt">
-<p align = "justify">Model of interstellar medium based on nonlinear photonics theory.</p>
- </div> -->
+<img width="175" align="left" src="../images/multigrid.jpg"/>
 
-<!-- &nbsp; justify">Model of interstellar medium based on nonlinear photonics theory (collaborate with [Tianyue Li @NJU](https://tobeyleonard.github.io/)); <br/>
+&nbsp; __GRB 140102A: insight into prompt spectral evolution and early optical afterglow emission__<br/>
+&nbsp;  Gupta, Rahul, Oates, S. R., Pandey, S. B., Castro-Tirado, A. J., Joshi, Jagdish C., Hu, Y. -D., Valeev, A. F., Zhang, B. B., Zhang, Zhao. and 32 more <br/>
+&nbsp;  *Monthly Notices of the Royal Astronomical Society 2021*<br/>
+&nbsp;  [Paper](../files/surface-multigrid-high.pdf) | [Paper (low res)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.505.4086G/abstract) 
 
-
-<br/> -->
+<br/>
 
 
 
