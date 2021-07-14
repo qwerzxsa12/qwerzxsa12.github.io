@@ -22,16 +22,16 @@ Research interest
 
 &nbsp; __High energy Astrophysics__<br/>
 <hr/>
-&nbsp; Data and observation-oriented research on gamma-ray bursts; <br/>
-&nbsp; Gravitational waves and related high energy astrophysics. <br/> 
+- &nbsp; Data and observation-oriented research on gamma-ray bursts; <br/>
+- &nbsp; Gravitational waves and related high energy astrophysics. <br/> 
 
 &nbsp; __High energy Astrophysics__<br/>
 <hr/>
-&nbsp; justify">Model of interstellar medium based on nonlinear photonics theory (collaborate with [Tianyue Li @NJU](https://tobeyleonard.github.io/)). <br/> 
+- &nbsp; Model of interstellar medium based on nonlinear photonics theory (collaborate with [Tianyue Li](https://tobeyleonard.github.io/)). <br/> 
 
-<div>
+<!-- <div>
 <div style="font-size:14pt"><strong>High energy Astrophysics</strong></div>
-  <hr/>
+  <hr/> -->
 <!-- </div>
 <div style="font-size:11pt">
 <p align = "justify">Data and observation-oriented research on gamma-ray bursts; <br/>
@@ -39,9 +39,9 @@ Research interest
                     </div> -->
                     
 
-<div>
+<!-- <div>
 <div style="font-size:14pt"><strong>Astrophotonics </strong></div>
-  <hr/>
+  <hr/> -->
 <!-- </div>
 <div style="font-size:11pt">
 <p align = "justify">Model of interstellar medium based on nonlinear photonics theory.</p>
