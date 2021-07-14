@@ -25,6 +25,8 @@ Research interest
 - &nbsp; Data and observation-oriented research on gamma-ray bursts; <br/>
 - &nbsp; Gravitational waves and related high energy astrophysics. <br/> 
 
+<br/>
+
 &nbsp; __High energy Astrophysics__<br/>
 <hr/>
 - &nbsp; Model of interstellar medium based on nonlinear photonics theory (collaborate with [Tianyue Li](https://tobeyleonard.github.io/)). <br/> 
