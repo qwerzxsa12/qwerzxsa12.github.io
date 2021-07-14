@@ -29,6 +29,8 @@ Research interest
 <hr/>
 - &nbsp; Model of interstellar medium based on nonlinear photonics (collaborate with [Tianyue Li](https://tobeyleonard.github.io/)). <br/> 
 
+<br/>
+
 <!-- <div>
 <div style="font-size:14pt"><strong>High energy Astrophysics</strong></div>
   <hr/> -->
@@ -107,7 +109,9 @@ Contact
 ======
 __Address__: School of Astronomy and Space, Xianlin Compus, Nanjing University.
 <br/>
+<br/>
 __WeChat__: MichaeljoyJackson
+<br/> 
 <br/>
 __QQ__: 563349377
 
