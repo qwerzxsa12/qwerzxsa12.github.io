@@ -94,7 +94,7 @@ Contact
 ======
 __Address__: School of Astronomy and Space, Xianlin Compus, Nanjing University.
 <br/>
-__QQ__: 563349377
+__WeChat__: MichaeljoyJackson
 <br/>
-__Wechat__: MichaeljoyJackson
+__QQ__: 563349377
 
