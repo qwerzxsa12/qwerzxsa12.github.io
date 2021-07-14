@@ -10,7 +10,7 @@ redirect_from:
 
 Biography
 ======
-Zhao Zhang joined the School of Astronomy and Space Science at Nanjing University in September 2019, where he is majoring in Astrophysics, advised by [*Assoc. Prof*. Binbin Zhang](https://astronomylab.nju.edu.cn/English/Faculty/Associateprofessors/20210207/i187831.html). He received his B.S. degree in physics from Guangxi University in June 2019. He studied the progenitor of gamma-ray bursts from black holes under the guidance of [*Prof*. Houjun Lü](https://astro.gxu.edu.cn/info/1047/1081.htm) during his undergraduate period.
+Zhao Zhang joined the School of Astronomy and Space Science at Nanjing University in September 2019, where he is majoring in Astrophysics, advised by [*Assoc. Prof*. Binbin Zhang](https://astronomylab.nju.edu.cn/English/Faculty/Associateprofessors/20210207/i187831.html). He received his B.S. degree in physics from Guangxi University in June 2019. He studied the progenitor of gamma-ray bursts (GRBs) from black holes under the guidance of [*Prof*. Houjun Lü](https://astro.gxu.edu.cn/info/1047/1081.htm) during his undergraduate period.
 
 <!-- __Update: I will be joining Stanford University as a Ph.D. student in Fall 2021!__ -->
 
@@ -20,16 +20,14 @@ Research interest
 ======
 
 
-&nbsp; __High energy Astrophysics__<br/>
+&nbsp; __High energy astrophysics__<br/>
 <hr/>
-- &nbsp; Data and observation-oriented research on gamma-ray bursts; <br/>
+- &nbsp; Data and observation-oriented research on GRBs; <br/>
 - &nbsp; Gravitational waves and related high energy astrophysics. <br/> 
 
-<br/>
-
-&nbsp; __High energy Astrophysics__<br/>
+&nbsp; __Astrophotonics__<br/>
 <hr/>
-- &nbsp; Model of interstellar medium based on nonlinear photonics theory (collaborate with [Tianyue Li](https://tobeyleonard.github.io/)). <br/> 
+- &nbsp; Model of interstellar medium based on nonlinear photonics (collaborate with [Tianyue Li](https://tobeyleonard.github.io/)). <br/> 
 
 <!-- <div>
 <div style="font-size:14pt"><strong>High energy Astrophysics</strong></div>
@@ -42,7 +40,7 @@ Research interest
                     
 
 <!-- <div>
-<div style="font-size:14pt"><strong>Astrophotonics </strong></div>
+<div style="font-size:14pt"><strong> </strong></div>
   <hr/> -->
 <!-- </div>
 <div style="font-size:11pt">
