@@ -28,7 +28,7 @@ Research interest
                     </div>
                     
 <div>
-<div style="font-size:14pt"><strong>Astrophotonics (collaborate with Tianyue Li @NJU)</strong></div>
+<div style="font-size:14pt"><strong>Astrophotonics (collaborate with [Tianyue Li @NJU](https://tobeyleonard.github.io/))</strong></div>
   <hr/>
 </div>
 <div style="font-size:11pt">
