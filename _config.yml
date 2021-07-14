@@ -80,11 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhao Zhang (Michael joy Jackson)"
+  name             : "Zhao Zhang <br/>
+                       (Joseph Jonathan)"
   avatar           : "avater.jpg"
   bio              :
 #   "Undergrad @UofT <br/>
-                      "M.S. Student @NJU <br/> "
+                      "M.S. Student @NJU <br/>"
   location         : "Nanjing & Xi'an"
   employer         :
   pubmed           :
