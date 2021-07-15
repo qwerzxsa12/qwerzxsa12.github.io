@@ -14,7 +14,7 @@ Zhao Zhang joined the School of Astronomy and Space Science at Nanjing Universit
 
 He received his B.S. degree in physics from Guangxi University in June 2019. and studied the progenitor of gamma-ray bursts (GRBs) from black holes under the guidance of *Prof*. [Houjun Lü](https://astro.gxu.edu.cn/info/1047/1081.htm) during the undergraduate period. 
 
-Parallelly, he often has stimulating discussions with *Mr*. [Tianyue Li](https://tobeyleonard.github.io/) on fundamentals of optics, expecting to outspread the range of Astrophotonics.
+Parallelly, he often has stimulating discussions with *Mr*. [Tianyue Li](https://tobeyleonard.github.io/) on the fundamentals of optics, expecting to outspread the range of Astrophotonics.
 
 <!-- __Update: I will be joining Stanford University as a Ph.D. student in Fall 2021!__ -->
 
