@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "Nanjing & Xi'an"
-title                    : "Zhao Zhang"
+title                    : "Zhao (Joseph Jonathan) Zhang "
 title_separator          : "-"
 name                     : &name "Zhao Zhang"
 description              : &description "Homepage of Zhao Zhang, Nanjing University"
@@ -80,14 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhao Zhang <br/>
-                       (Joseph Jonathan)"
-  avatar           : "avater.jpg"
+  name             : "Zhao Zhang"
+  avatar           : "avater2.jpg"
   bio              :
 #   "Undergrad @UofT <br/>
-                      "M.S. Student @NJU <br/>"
-  location         : "Nanjing & Xi'an"
-  employer         :
+                      "Joseph Jonathan <br/>  M.S. Student @NJU "
+  location         : "Xianlin, NJ"
+  employer         : 
   pubmed           :
   googlescholar    : 
   email            : 563349377@qq.com
