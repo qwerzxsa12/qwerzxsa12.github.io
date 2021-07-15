@@ -41,9 +41,9 @@ Publications
 <img width="200" align="left" src="../images/2105.13145.png"/>
 
 &nbsp; __GRB 140102A: insight into prompt spectral evolution and early optical afterglow emission__<br/>
-&nbsp;  Gupta, Rahul, Oates, S. R., Pandey, S. B., Castro-Tirado, A. J., Joshi, Jagdish C., Hu, Y. -D., Valeev, A. F., Zhang, B. B., __Zhang, Zhao__. and 32 more <br/>
-&nbsp;  *Monthly Notices of the Royal Astronomical Society 2021*<br/>
-&nbsp;  [Paper] | [Paper (low res)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.505.4086G/abstract) 
+&nbsp;  Rahul Gupta, S. R. Oates, S. B. Pandey, A. J. Castro-Tirado, Jagdish C. Joshi, Y.-D. Hu, A. F. Valeev, B. B. Zhang, __Z. Zhang__ and 32 more <br/>
+&nbsp;  *Monthly Notices of the Royal Astronomical Society* (2021)<br/>
+&nbsp;  [Paper (low res)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.505.4086G/abstract) 
 
 <br/>
 
