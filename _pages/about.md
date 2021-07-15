@@ -10,11 +10,11 @@ redirect_from:
 
 Biography
 ======
-Zhao Zhang joined the School of Astronomy and Space Science at Nanjing University in September 2019, where he is majoring in Astrophysics, mainly the research of gamma-ray bursts (GRBs) and related fields, advised by *Assoc. Prof*. [Binbin Zhang](https://astronomylab.nju.edu.cn/English/Faculty/Associateprofessors/20210207/i187831.html). 
+Zhao Zhang joined the School of Astronomy and Space Science at Nanjing University in September 2019, where he is majoring in Astrophysics advised by *Assoc. Prof*. [Binbin Zhang](https://astronomylab.nju.edu.cn/English/Faculty/Associateprofessors/20210207/i187831.html), pursuing the research on gamma-ray bursts (GRBs) and related fields.
 
-He received his B.S. degree in physics from Guangxi University in June 2019. and studied the progenitor of GRBs from black holes under the guidance of *Prof*. [Houjun Lü](https://astro.gxu.edu.cn/info/1047/1081.htm) during the undergraduate period.
+He received his B.S. degree in physics from Guangxi University in June 2019. and studied the progenitors of GRBs emitted from black holes under the guidance of *Prof*. [Houjun Lü](https://astro.gxu.edu.cn/info/1047/1081.htm) during the undergraduate period.
 
-Parallelly, he often has stimulating discussions with *Mr*. [Tianyue Li](https://tobeyleonard.github.io/) on the fundamentals of optics, expecting to outspread the range of Astrophotonics.
+Parallelly, he often has fruitful discussions with *Mr*. [Tianyue Li](https://tobeyleonard.github.io/) on the fundamentals of optics, expecting to outspread the range of Astrophotonics.
 
 <!-- __Update: I will be joining Stanford University as a Ph.D. student in Fall 2021!__ -->
 
