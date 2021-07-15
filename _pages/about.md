@@ -10,7 +10,7 @@ redirect_from:
 
 Biography
 ======
-Zhao Zhang joined the School of Astronomy and Space Science at Nanjing University in September 2019, where he is majoring in Astrophysics advised by *Assoc. Prof*. [Binbin Zhang](https://astronomylab.nju.edu.cn/English/Faculty/Associateprofessors/20210207/i187831.html), pursuing the research on gamma-ray bursts (GRBs) and related fields.
+__Zhao Zhang__ joined the School of Astronomy and Space Science at Nanjing University in September 2019, where he is majoring in Astrophysics advised by *Assoc. Prof*. [Binbin Zhang](https://astronomylab.nju.edu.cn/English/Faculty/Associateprofessors/20210207/i187831.html), pursuing the research on gamma-ray bursts (GRBs) and related fields.
 
 He received his B.S. degree in physics from Guangxi University in June 2019. and studied the progenitors of GRBs emitted from black holes under the guidance of *Prof*. [Houjun Lü](https://astro.gxu.edu.cn/info/1047/1081.htm) during the undergraduate period.
 
@@ -41,8 +41,8 @@ Publications
 <img width="200" align="left" src="../images/2105.13145.png"/>
 
 - &nbsp; [__GRB 140102A: insight into prompt spectral evolution and early optical afterglow emission__](../files/2105.13145.pdf)<br/>
-&nbsp;  Rahul Gupta, S. R. Oates, S. B. Pandey, A. J. Castro-Tirado, Jagdish C. Joshi, Y.-D. Hu, A. F. Valeev, B. B. Zhang, __Z. Zhang__ and 32 more. <br/>
-&nbsp;  *Monthly Notices of the Royal Astronomical Society* (2021)<br/>
+&nbsp; Rahul Gupta, S. R. Oates, S. B. Pandey, A. J. Castro-Tirado, Jagdish C. Joshi, Y.-D. Hu, A. F. Valeev, B. B. Zhang, __Z. Zhang__ and 32 more. <br/>
+&nbsp; *Monthly Notices of the Royal Astronomical Society* (2021)<br/>
 
 <br/>
 
