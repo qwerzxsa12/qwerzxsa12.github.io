@@ -42,8 +42,7 @@ Publications
 
 &nbsp; __GRB 140102A: insight into prompt spectral evolution and early optical afterglow emission__<br/>
 &nbsp;  Rahul Gupta, S. R. Oates, S. B. Pandey, A. J. Castro-Tirado, Jagdish C. Joshi, Y.-D. Hu, A. F. Valeev, B. B. Zhang, __Z. Zhang__ and 32 more <br/>
-&nbsp;  *Monthly Notices of the Royal Astronomical Society* (2021)<br/>
-&nbsp;  [Paper (low res)](../files/2105.13145.pdf) 
+&nbsp;  [*Monthly Notices of the Royal Astronomical Society*](../files/2105.13145.pdf) (2021)<br/>
 
 <br/>
 
