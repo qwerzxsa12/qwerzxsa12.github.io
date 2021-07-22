@@ -46,11 +46,11 @@ Publications
 
 <br/>
 
-<img width="160" align="left" src="../images/A Comprehensive Consistency Check between Synchrotron radiation and the Observed Gamma-ray Burst Spectra.png"/>
+<img width="175" align="left" src="../images/A Comprehensive Consistency Check between Synchrotron radiation and the Observed Gamma-ray Burst Spectra.png"/>
 
 &nbsp; [__A Comprehensive Consistency Check between Synchrotron radiation and the Observed Gamma-ray Burst Spectra__](../files/A Comprehensive Consistency Check between Synchrotron radiation and the Observed Gamma-ray Burst Spectra.pdf)<br/>
 &nbsp; Dao-Zhou Wang, Xiao-Hong Zhao, __Zhao Zhang__, Bin-Bin Zhang, Zhao-Yang Peng. <br/>
-&nbsp; *Preprint* (2021)<br/>
+&nbsp; *ArXiv* (2021)<br/>
 
 <br/>
 
