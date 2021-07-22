@@ -41,8 +41,14 @@ Publications
 <img width="175" align="left" src="../images/2105.13145.png"/>
 
 &nbsp; [__GRB 140102A: insight into prompt spectral evolution and early optical afterglow emission__](../files/2105.13145.pdf)<br/>
-&nbsp; Rahul Gupta, S. R. Oates, S. B. Pandey, A. J. Castro-Tirado, Jagdish C. Joshi, Y.-D. Hu, A. F. Valeev, B. B. Zhang, __Z. Zhang__ and 32 more. <br/>
+&nbsp; Rahul Gupta, S. R. Oates, S. B. Pandey, A. J. Castro-Tirado, Jagdish C. Joshi, Y.-D. Hu, A. F. Valeev, B. B. Zhang, __Zhao Zhang__ and 32 more. <br/>
 &nbsp; *Monthly Notices of the Royal Astronomical Society* (2021)<br/>
+
+<img width="175" align="left" src="../images/A Comprehensive Consistency Check between Synchrotron radiation and the Observed Gamma-ray Burst Spectra.png"/>
+
+&nbsp; [__A Comprehensive Consistency Check between Synchrotron radiation and the Observed Gamma-ray Burst Spectra__](../files/A Comprehensive Consistency Check between Synchrotron radiation and the Observed Gamma-ray Burst Spectra.pdf)<br/>
+&nbsp; Dao-Zhou Wang, Xiao-Hong Zhao, __Zhao Zhang__, Bin-Bin Zhang, Zhao-Yang Peng. <br/>
+&nbsp; *Preprint* (2021)<br/>
 
 <br/>
 
