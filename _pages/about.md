@@ -38,7 +38,7 @@ Research interest
 Publications
 ======
 
-<img width="175" align="left" src="../images/GRB 140102A Insight into Prompt Spectral Evolution and Early Optical Afterglow Emission.png"/>
+<img width="165" align="left" src="../images/GRB 140102A Insight into Prompt Spectral Evolution and Early Optical Afterglow Emission.png"/>
 
 &nbsp; [__GRB 140102A: insight into prompt spectral evolution and early optical afterglow emission__](../files/2105.13145.pdf)<br/>
 &nbsp; Rahul Gupta, S. R. Oates, S. B. Pandey, A. J. Castro-Tirado, Jagdish C. Joshi, Y.-D. Hu, A. F. Valeev, B. B. Zhang, __Zhao Zhang__ and 32 more. <br/>
