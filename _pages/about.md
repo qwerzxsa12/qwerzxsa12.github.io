@@ -43,6 +43,7 @@ Publications
 &nbsp; Rahul Gupta, S. R. Oates, S. B. Pandey, A. J. Castro-Tirado, Jagdish C. Joshi, Y.-D. Hu, A. F. Valeev, B. B. Zhang, __Zhao Zhang__ and 32 more. <br/>
 &nbsp; *Monthly Notices of the Royal Astronomical Society* (2021)<br/>
 
+
 <br/>
 
 <img width="165" align="left" hspace=10 px src="../images/GRB 140102A Insight into Prompt Spectral Evolution and Early Optical Afterglow Emission.png"/>
@@ -51,7 +52,9 @@ Publications
 &nbsp; Rahul Gupta, S. R. Oates, S. B. Pandey, A. J. Castro-Tirado, Jagdish C. Joshi, Y.-D. Hu, A. F. Valeev, B. B. Zhang, __Zhao Zhang__ and 32 more. <br/>
 &nbsp; *Monthly Notices of the Royal Astronomical Society* (2021)<br/>
 
+
 <br/>
+
 
 
 <img width="175" align="left" src="../images/A Comprehensive Consistency Check between Synchrotron radiation and the Observed Gamma-ray Burst Spectra.png"/>
