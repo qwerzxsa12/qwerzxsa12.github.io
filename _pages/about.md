@@ -37,7 +37,7 @@ Research interest
 
 Publications
 ======
-<img width="165" align="left" hspace=10 px src="../images/A Comptonized Fireball Bubble: Physical Origin of Magnetar Giant Flares.pdf"/>
+<img width="165" align="left" hspace=10 px src="../images/A Comptonized Fireball Bubble: Physical Origin of Magnetar Giant Flares.png"/>
 
 &nbsp; [__A Comptonized Fireball Model of Magnetar Giant Flares__](../files/2109.14252.pdf)<br/>
 &nbsp; Rahul Gupta, S. R. Oates, S. B. Pandey, A. J. Castro-Tirado, Jagdish C. Joshi, Y.-D. Hu, A. F. Valeev, B. B. Zhang, __Zhao Zhang__ and 32 more. <br/>
