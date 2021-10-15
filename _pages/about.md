@@ -27,9 +27,9 @@ Research interest
 &nbsp; __High energy astrophysics__<br/>
 <hr/>
 - &nbsp; Data and observation-oriented research on GRBs; <br/>
-- &nbsp; Gravitational waves and related high energy astrophysics. <br/> 
-- &nbsp; Gravitational lensing and related high energy astrophysics. <br/> 
-- &nbsp; Supernovae in association with GRBs <br/> 
+- &nbsp; Gravitational waves and related high energy astrophysics; <br/> 
+- &nbsp; Gravitational lensing and its obsergvational properties in the high-energy band; <br/> 
+- &nbsp; Physical orgin of supernovae in association with GRBs. <br/> 
 
 &nbsp; __Astrophotonics__<br/>
 <hr/>
