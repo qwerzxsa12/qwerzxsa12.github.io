@@ -60,7 +60,7 @@ Publications
 
 <img width="175" align="left" src="../images/A Comprehensive Consistency Check between Synchrotron radiation and the Observed Gamma-ray Burst Spectra.png"/>
 
-&nbsp; [__A Comprehensive Consistency Check between Synchrotron radiation and the Observed Gamma-ray Burst Spectra__](../files/A Comprehensive Consistency Check between Synchrotron radiation and the Observed Gamma-ray Burst Spectra.pdf)<br/>
+&nbsp; [__A Comprehensive Consistency Check between Synchrotron radiation and the Observed Gamma-ray Burst Spectra__](../files/2107.11050.pdf)<br/>
 &nbsp; Dao-Zhou Wang, Xiao-Hong Zhao, __Zhao Zhang__, Bin-Bin Zhang, Zhao-Yang Peng. <br/>
 &nbsp; *ArXiv* (2021)<br/>
 
@@ -68,7 +68,7 @@ Publications
 
 <img width="175" align="left" src="../images/Evidence for gravitational 1 lensing of GRB 200716C.png"/>
 
-&nbsp; [__Evidence for gravitational 1 lensing of GRB 200716C__](../files/Evidence for gravitational 1 lensing of GRB 200716C.pdf)<br/>
+&nbsp; [__Evidence for gravitational 1 lensing of GRB 200716C__](../files/2107.09859.pdf)<br/>
 &nbsp; Xing Yang, Hou-Jun Lü, Hao-Yu Yuan, __Zhao Zhang__, Bin-Bin Zhang, and En-Wei Liang. <br/>
 &nbsp; *ArXiv* (2021)<br/>
 
