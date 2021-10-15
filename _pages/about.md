@@ -129,7 +129,7 @@ employed as a structural prototyping tool that facilitates model design and fabr
 
 Contact
 ======
-__Address__: School of Astronomy and Space, Xianlin Compus, Nanjing University.
+__Address__: School of Astronomy and Space, Xianlin Campus, Nanjing University.
 <br/>
 <br/>
 __WeChat__: MichaeljoyJackson
