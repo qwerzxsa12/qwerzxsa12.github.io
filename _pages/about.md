@@ -28,6 +28,8 @@ Research interest
 <hr/>
 - &nbsp; Data and observation-oriented research on GRBs; <br/>
 - &nbsp; Gravitational waves and related high energy astrophysics. <br/> 
+- &nbsp; Gravitational lensing and related high energy astrophysics. <br/> 
+- &nbsp; Supernovae in association with GRBs <br/> 
 
 &nbsp; __Astrophotonics__<br/>
 <hr/>
