@@ -53,6 +53,7 @@ Publications
 
 <br/>
 
+
 <img width="175" align="left" src="../images/A Comprehensive Consistency Check between Synchrotron radiation and the Observed Gamma-ray Burst Spectra.png"/>
 
 &nbsp; [__A Comprehensive Consistency Check between Synchrotron radiation and the Observed Gamma-ray Burst Spectra__](../files/A Comprehensive Consistency Check between Synchrotron radiation and the Observed Gamma-ray Burst Spectra.pdf)<br/>
