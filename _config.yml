@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "Nanjing & Xi'an"
-title                    : "Zhao (Joseph Jonathan) Zhang "
+title                    : "Zhao “Joseph” Zhang "
 title_separator          : "-"
 name                     : &name "Zhao Zhang"
 description              : &description "Homepage of Zhao Zhang, Nanjing University"
@@ -89,7 +89,7 @@ author:
   employer         : 
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=ljkZfyAAAAAJ&view_op=list_works&authuser=1&gmla=AJsN-F6mTMftD-wOFdzEvgvchV_JUll9UIMTyoYPe4INLwFbvqnbnAx2uHu6fHtMLEKpc4i0bFOdkeiDEtcgOAPCuh8Vei9y2tfouBf4bNDRRMbMR5bUox8"
-  email            : 563349377@qq.com
+  email            : zhangzhao@smail.nju.edu.cn
   researchgate     :
   uri              :
   bitbucket        :
