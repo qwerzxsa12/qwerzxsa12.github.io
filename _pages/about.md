@@ -10,11 +10,11 @@ redirect_from:
 
 Biography
 ======
-__Zhao Zhang__ joined the School of Astronomy and Space Science at Nanjing University in September 2019, where he is majoring in Astrophysics advised by *Assoc. Prof*. [Binbin Zhang](https://astronomylab.nju.edu.cn/English/Faculty/Associateprofessors/20210207/i187831.html), pursuing the research on High Energy Astrophysics. He specializes in gamma-ray bursts (GRBs), Magnetar Giant Flares (MGFs), Gravitational Lensing (GL) and many other theoretic astrophysics fields. In paralell, he works well on GRB analyzing and is good at programming, participating in developing the GRB data processing pipelines.
+__Zhao Zhang__ joined the School of Astronomy and Space Science at Nanjing University in September 2019, where he is majoring in Astrophysics advised by *Assoc. Prof*. [Binbin Zhang](https://astronomy.nju.edu.cn/EN/People/AssociateProfessors/20200707/i113754.html), pursuing the research on High Energy Astrophysics. He specializes in gamma-ray bursts (GRBs), Magnetar Giant Flares (MGFs), Gravitational Lensing (GL) and many other theoretic astrophysics fields. In paralell, he works well on GRB analyzing and is good at programming, participating in developing the GRB data processing pipelines.
 
 He received his B.S. degree in physics from Guangxi University in June 2019. and studied the progenitors of GRBs emitted from black holes under the guidance of *Prof*. [Houjun Lü](https://astro.gxu.edu.cn/info/1047/1081.htm) during the undergraduate period.
 
-Parallelly, he is keen on exploring different research areas. He often has fruitful discussions with *Mr*. [Tianyue Li](https://tobeyleonard.github.io/) on the fundamentals of optics, expecting to outspread the range of Astrophotonics. And he is also very interested in Supernova, especially for those are in association with GRBs. In cooperation with Shengyu Yan of Tsinghua University, he is pursing the physical origin and statistical characteristics of this kind of supernova.
+Parallelly, he is keen on exploring different research areas. He is interested in the fundamentals of optics, expecting to outspread the range of Astrophotonics. And he is also very interested in Supernova, especially for those are in association with GRBs. He is pursing the physical origin and statistical characteristics of this kind of supernova.
 
 <!-- __Update: I will be joining Stanford University as a Ph.D. student in Fall 2022!__ -->
 
